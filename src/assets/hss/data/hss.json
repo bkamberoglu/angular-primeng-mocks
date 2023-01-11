@@ -63,7 +63,32 @@
       "hsmIntegration": "Yes",
       "authority": "Manager",
       "phoneNumber": "05419315799"
+    },
+    {
+      "imsi": 9,
+      "explanation": "SMS-9",
+      "hybridTerminalName": "Terminal-9",
+      "hsmIntegration": "Yes",
+      "authority": "Manager",
+      "phoneNumber": "05419315799"
+    },
+    {
+      "imsi": 10,
+      "explanation": "SMS-10",
+      "hybridTerminalName": "Terminal-8",
+      "hsmIntegration": "Yes",
+      "authority": "Manager",
+      "phoneNumber": "05419315799"
+    },
+    {
+      "imsi": 8,
+      "explanation": "SMS-8",
+      "hybridTerminalName": "Terminal-8",
+      "hsmIntegration": "Yes",
+      "authority": "Manager",
+      "phoneNumber": "05419315799"
     }
+
   ]
 }
   
